@@ -6,4 +6,4 @@ function increament()
     console.log(counter);
     setTimeout(increament,1000);
 }
-increamen
+increament();
